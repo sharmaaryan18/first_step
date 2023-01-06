@@ -22,7 +22,7 @@
         <li>Tofu</li>
     </ul>
     
-    <img src="tofu.jpeg" width="200" height="200">
+    <img src="tofu.jpeg" width="200" height="200"/>
     
 </body>
 </html>
